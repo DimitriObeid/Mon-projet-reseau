@@ -1,2 +1,4 @@
-# Mon-projet-reseau
-Un projet à long terme permettant la communication entre mon PC portable sous Linux et un futur ordinateur fixe pouvant également serir de serveur
+# Mon projet réseau
+**Version actuelle : Alpha 0.0**
+
+Ce projet est mon deuxième projet personnel de BTS SIO, cette fois plus orienté réseau que développement
